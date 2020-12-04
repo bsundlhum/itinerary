@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.code.challenge.itinerary"
+    },
+    "jhipsterVersion": "6.5.1",
+    "applicationType": "microservice",
+    "baseName": "itinerary",
+    "packageName": "com.code.challenge.itinerary",
+    "packageFolder": "com/code/challenge/itinerary",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "consul",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NmEwZjA3ZmI5MGQ5NDBjOTMxZjAzM2VhZDhiYjIyNGMwZjAyMzNlNjM4MzY1NzBmODkzZWNlMGViNWYzZjQ2OWZjOWRhZDQwNDQ0ZGVjMzNlZWU2YzQwMGI3ZmQ5MzJlMjZjOWM3YzA4MWNmNDU1Y2Y0ZjBjNjdhMzVhNTk0NmQ=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
